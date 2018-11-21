@@ -34,11 +34,11 @@
     <header id="header" class="hoc clear"> 
       <!-- ################################################################################################ -->
       <div id="logo" class="fl_left">
-        <h1><a href="../index.html">Movie Time</a></h1>
+        <h1><a href="../index.php">Movie Time</a></h1>
       </div>
       <nav id="mainav" class="fl_right">
         <ul class="clear">
-		  <li><a href="index.html">Profile</a></li>
+		  <li><a href="index.php">Profile</a></li>
           <li><a href="#">To Watch </a></li>
           <li><a href="#">Watched</a></li>
 		            <li><a class="drop" href="#">Movies</a>
@@ -48,7 +48,7 @@
               <li><a href="pages/">Top Searched</a></li>
               <li><a href="pages/">Most Viewed</a></li>
               <li><a href="pages/">Recent Movies</a></li>
-			  <li><a href="pages/toprated.html">Top Rated</a></li>
+			  <li><a href="pages/toprated.php">Top Rated</a></li>
             </ul>
           </li>
         </ul>

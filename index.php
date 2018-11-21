@@ -17,7 +17,7 @@
         <ul class="nospace">
           <!--<li><a href="index.php"><i class="fa fa-lg fa-home"></i></a></li>-->
           <li><a href="#">Login / Sign In</a></li>
-          <li><a href="#">Register</a></li>
+          <li><a href="pages/register.php">Register</a></li>
         </ul>
       </div>
       <!-- ################################################################################################ -->
@@ -40,7 +40,7 @@
       	<h2 class="heading">Join our cinephile family</h2>
         <h2 class="heading">Movie Time</h2>	
 		<p>Do you love movies as much as we do? <br>Here you can rate, review, search, debate, discover and much more. </p>
-      <footer><a class="btn" href="#">Register</a></footer>
+      <footer><a class="btn" href="pages/register.php">Register</a></footer>
     </article>
     <!-- ################################################################################################ -->
     <div class="clear"></div>
@@ -61,7 +61,7 @@
 			add them in order of priority.</p>
       </article>
       <article class="one_quarter"><i class="icon fa fa-bar-chart"></i>
-        <h4 class="font-x1"><a href="pages/toprated.php"">Top Rated</a></h4>
+        <h4 class="font-x1"><a href="pages/toprated.php">Top Rated</a></h4>
         <p>You can rate the movies that you watch and see what are the best and worse rated movies in our app.</p>
       </article>
       <article class="one_quarter"><i class="icon fa fa-hashtag"></i>
