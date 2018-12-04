@@ -86,23 +86,23 @@
   <div class="form-row">
     <div class="col-md-4 mb-3">
       <label for="validationServer01">First Name</label>
-      <input type="text" class="form-control is-valid" id="validationServer01" placeholder="First name" value="Mark" required>
+      <input type="text" class="form-control is-valid" id="validationServer01" placeholder="First name" value="" required>
       <div class="valid-feedback">
-        Looks good!
+        
       </div>
     </div>
     <div class="col-md-4 mb-3">
       <label for="validationServer02">Last Name</label>
-      <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Last name" value="Otto" required>
+      <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Last name" value="" required>
       <div class="valid-feedback">
-        Looks good!
+        
       </div>
     </div>
      <div class="col-md-3 mb-3">
       <label for="validationServer04">E-Mail</label>
       <input type="text" class="form-control is-invalid" id="validationServer04" placeholder="juandelpueblo@mail.com" required>
       <div class="invalid-feedback">
-        Please provide a valid E-Mail.
+        
       </div>
     </div>
     <div class="col-md-4 mb-3">
