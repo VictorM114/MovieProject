@@ -82,63 +82,55 @@
     <div class="content"> 
       <!-- ################################################################################################ -->
         <h2>Register</h2>
-        <form>
+       <form>
   <div class="form-row">
     <div class="col-md-4 mb-3">
-      <label for="validationServer01">First Name</label>
-      <input type="text" class="form-control is-valid" id="validationServer01" placeholder="First name" value="" required>
-      <div class="valid-feedback">
-        
-      </div>
+      <label for="validationDefault01">First name</label>
+      <input type="text" class="form-control" id="validationDefault01" placeholder="First name" required>
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationServer02">Last Name</label>
-      <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Last name" value="" required>
-      <div class="valid-feedback">
-        
-      </div>
+      <label for="validationDefault02">Last name</label>
+      <input type="text" class="form-control" id="validationDefault02" placeholder="Last name" required>
     </div>
-     <div class="col-md-3 mb-3">
-      <label for="validationServer04">E-Mail</label>
-      <input type="text" class="form-control is-invalid" id="validationServer04" placeholder="juandelpueblo@mail.com" required>
-      <div class="invalid-feedback">
-        
-      </div>
+ <div class="col-md-6 mb-3">
+      <label for="validationDefault03">E-Mail</label>
+      <input type="email" class="form-control" id="validationDefault03" placeholder="someone@mail.com" required>
     </div>
-    <div class="col-md-4 mb-3">
-      <label for="validationServerUsername">Username</label>
-      <div class="input-group">
-        <div class="input-group-prepend">
-          <span class="input-group-text" id="inputGroupPrepend3">@</span>
-        </div>
-        <input type="text" class="form-control is-invalid" id="validationServerUsername" placeholder="Username" aria-describedby="inputGroupPrepend3" required>
-        <div class="invalid-feedback">
-          Please choose a username.
-        </div>
-      </div>
-    </div>
+
   </div>
   <div class="form-row">
-    <div class="col-md-6 mb-3">
-      <label for="validationServer03">Country</label>
-      <input type="text" class="form-control is-invalsd" id="validationServer03" placeholder="Country" required>
-      <div class="invalid-feedback">
-        Please provide a valid country.
+    <div class="col-md-4 mb-3">
+      <label for="validationDefaultUsername">Username</label>
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text" id="inputGroupPrepend2">@</span>
+        </div>
+        <input type="text" class="form-control" id="validationDefaultUsername" placeholder="Username" aria-describedby="inputGroupPrepend2" required>
       </div>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationDefault04">Country</label>
+      <input type="text" class="form-control" id="validationDefault04" placeholder="Country" required>
+    </div>
+    <br>
+    <div class="col-md-3 mb-3">
+      <label for="validationDefault05">Password</label>
+      <input type="password" class="form-control" id="validationDefault05" placeholder="Password" required>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationDefault05">Re-enter password</label>
+      <input type="password" class="form-control" id="validationDefault05" placeholder="Password" required>
     </div>
   </div>
   <div class="form-group">
     <div class="form-check">
-      <input class="form-check-input is-invalid" type="checkbox" value="" id="invalidCheck3" required>
-      <label class="form-check-label" for="invalidCheck3">
+      <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>
+      <label class="form-check-label" for="invalidCheck2">
         Agree to terms and conditions
       </label>
-      <div class="invalid-feedback">
-        You must agree before submitting.
-      </div>
     </div>
   </div>
-  <button class="btn btn-primary" type="submit">Submit form</button>
+  <button class="btn btn-primary" type="submit">Register</button>
 </form>
       </div>
       <!-- ################################################################################################ -->
