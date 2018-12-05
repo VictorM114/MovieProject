@@ -5,6 +5,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"crossorigin="anonymous">
 </head>
 <body id="top">
 <!-- ################################################################################################ -->
@@ -81,13 +83,15 @@
       <!-- ################################################################################################ -->
       <div id="gallery">
         <figure>
-          <header class="heading">The Dark Knight (2008) </header>
+          <header class="heading"><b>The Dark Knight (2008)</b> </header>
           <ul class="nospace clear">
             <li class="one_quarter first"><a href="TDK.php"><img src="../images/demo/gallery/The Dark Knight (2008).jpg" alt=""></a></li>
             <li class="one_quarter"><iframe width="560" height="315" src="https://www.youtube.com/embed/EXeTwQWrcwY"
             frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
             </ul>
-          <article><p>When the menace known as the Joker emerges from his mysterious past,
+          <article>
+            <h6><b>Sinopsis</b></h6>
+            <p>When the menace known as the Joker emerges from his mysterious past,
             he wreaks havoc and chaos on the people of Gotham.
             The Dark Knight must accept one of the greatest psychological
             and physical tests of his ability to fight injustice.</p></article>
