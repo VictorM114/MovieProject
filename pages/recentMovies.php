@@ -39,8 +39,6 @@
       <nav id="mainav" class="fl_right">
         <ul class="clear">
 		  <li><a href="#">Profile</a></li>
-          <li><a href="#">To Watch </a></li>
-          <li><a href="#">Watched</a></li>
 		            <li><a class="drop" href="#">Movies</a>
             <ul>
               <li><a href="pages/">Genre</a></li>
