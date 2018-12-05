@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Register</title>
+<title>Sign-in</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -19,9 +19,9 @@
       <!-- ################################################################################################ -->
       <div class="fl_right">
         <ul class="nospace">
-          <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-          <li><a href="#">Login</a></li>
-          <li><a href="pages/register.php">Register</a></li>
+          <li><a href="../index.php"><i class="fa fa-lg fa-home"></i></a></li>
+          <li><a href="sign-in.php">Sign-In</a></li>
+          <li><a href="register.php">Register</a></li>
         </ul>
       </div>
 
@@ -49,7 +49,7 @@
               <li><a href="pages/">Top Searched</a></li>
               <li><a href="pages/">Most Viewed</a></li>
               <li><a href="pages/">Recent Movies</a></li>
-			  <li><a href="pages/toprated.php">Top Rated</a></li>
+			  <li><a href="toprated.php">Top Rated</a></li>
             </ul>
           </li>
         </ul>

@@ -18,9 +18,9 @@
       <!-- ################################################################################################ -->
       <div class="fl_right">
         <ul class="nospace">
-          <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-          <li><a href="#">Login</a></li>
-          <li><a href="#">Register</a></li>
+          <li><a href="../index.php"><i class="fa fa-lg fa-home"></i></a></li>
+          <li><a href="sign-in.php">Sign-In</a></li>
+          <li><a href="register.php">Register</a></li>
         </ul>
       </div>
 
