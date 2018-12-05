@@ -39,8 +39,6 @@
       <nav id="mainav" class="fl_right">
         <ul class="clear">
 		  <li><a href="">Profile</a></li>
-          <li><a href="#">To Watch </a></li>
-          <li><a href="#">Watched</a></li>
 		            <li><a class="drop" href="#">Movies</a>
             <ul>
               <li><a href="">Genre</a></li>
@@ -97,6 +95,13 @@
                    Writers: Jonathan Nolan (screenplay), Christopher Nolan (screenplay).<br>
                    Cast: Christian Bale, Heath Ledger, Aaron Eckhart.</article>
           </figure>
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+              <label class="btn btn-secondary">
+              <input type="radio" name="options" id="option1" autocomplete="off"> Watched
+              </label>
+              <label class="btn btn-secondary">
+              <input type="radio" name="options" id="option2" autocomplete="off"> To Watch
+              </label></div>
       </div>
       </div>
     <!-- ################################################################################################ -->
