@@ -85,17 +85,17 @@
           <header class="heading">Recent Movies</header>
           <ul class="nospace clear">
             <li class="one_quarter first"><a href="#"><img src="../recentMovies/ralph.jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/Forrest Gump (1994).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/Pulp Fiction (1994).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/Star Wars Episode IV - A New Hope (1977).jpg" alt=""></a></li>
-            <li class="one_quarter first"><a href="#"><img src="../images/demo/gallery/Star Wars Episode V - The Empire Strikes Back (1980).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Dark Knight (2008).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Godfather (1972).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Godfather Part II (1974).jpg" alt=""></a></li>
-            <li class="one_quarter first"><a href="#"><img src="../images/demo/gallery/The Lord of the Rings The Fellowship of the Ring (2001).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Lord of the Rings The Return of the King (2003).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Lord of the Rings The Two Towers (2002).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Matrix (1999).jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/fantastic.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/hannah.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/creedII.jpg" alt=""></a></li>
+            <li class="one_quarter first"><a href="#"><img src="../recentMovies/robin.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/instant.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/overlord.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/queLeon.jpg" alt=""></a></li>
+            <li class="one_quarter first"><a href="#"><img src="../recentMovies/widows.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/bohemian.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/greenBook.jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="#"><img src="../recentMovies/theGrinch.jpg" alt=""></a></li>
           </ul>
           </figure>
       </div>
