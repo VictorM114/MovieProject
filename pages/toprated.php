@@ -47,8 +47,8 @@
               <li><a href="pages/">Year</a></li>
               <li><a href="pages/">Top Searched</a></li>
               <li><a href="pages/">Most Viewed</a></li>
-              <li><a href="pages/">Recent Movies</a></li>
-			  <li><a href="pages/toprated.php">Top Rated</a></li>
+              <li><a href="recentMovies.php">Recent Movies</a></li>
+			  <li><a href="toprated.php">Top Rated</a></li>
             </ul>
           </li>
         </ul>
