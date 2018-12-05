@@ -83,11 +83,45 @@
       <!-- ################################################################################################ -->
       <div id="gallery">
         <figure>
-          <header class="heading">Top Rated Movies</header>
+          <header class="heading">The Dark Knight (2008) </header>
           <ul class="nospace clear">
-            <li class="one_quarter first"><a href="#"><img src="../images/demo/gallery/The Dark Knight (2008).jpg" alt=""></a></li>
-            
-          
-          </ul>
+            <li class="one_quarter first"><a href="TDK.php"><img src="../images/demo/gallery/The Dark Knight (2008).jpg" alt=""></a></li>
+            <li class="one_quarter"><iframe width="560" height="315" src="https://www.youtube.com/embed/EXeTwQWrcwY"
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+            </ul>
+          <article><p>When the menace known as the Joker emerges from his mysterious past,
+            he wreaks havoc and chaos on the people of Gotham.
+            The Dark Knight must accept one of the greatest psychological
+            and physical tests of his ability to fight injustice.</p></article>
+          <article>Director: Christopher Nolan <br>
+                   Writers: Jonathan Nolan (screenplay), Christopher Nolan (screenplay).<br>
+                   Cast: Christian Bale, Heath Ledger, Aaron Eckhart.</article>
           </figure>
       </div>
+      </div>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved Victor and Alice - <a href="#">SICI4997</a></p
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
