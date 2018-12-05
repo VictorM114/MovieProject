@@ -38,7 +38,7 @@
       </div>
       <nav id="mainav" class="fl_right">
         <ul class="clear">
-		  <li><a href="index.php">Profile</a></li>
+		  <li><a href="">Profile</a></li>
           <li><a href="#">To Watch </a></li>
           <li><a href="#">Watched</a></li>
 		            <li><a class="drop" href="#">Movies</a>
@@ -63,9 +63,9 @@
     <div id="breadcrumb" class="hoc clear"> 
       <!-- ################################################################################################ -->
       <ul>
-        <li><a href="#">Home</a></li>
+        <li><a href="../index.php">Home</a></li>
         <li><a href="#">Movies</a></li>
-        <li><a href="#">Top Rated Movies</a></li>
+        <li><a href="toprated.php">Top Rated Movies</a></li>
       </ul>
       <!-- ################################################################################################ -->
     </div>
@@ -89,7 +89,7 @@
             <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/Pulp Fiction (1994).jpg" alt=""></a></li>
             <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/Star Wars Episode IV - A New Hope (1977).jpg" alt=""></a></li>
             <li class="one_quarter first"><a href="#"><img src="../images/demo/gallery/Star Wars Episode V - The Empire Strikes Back (1980).jpg" alt=""></a></li>
-            <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Dark Knight (2008).jpg" alt=""></a></li>
+            <li class="one_quarter"><a href="TDK.php"><img src="../images/demo/gallery/The Dark Knight (2008).jpg" alt=""></a></li>
             <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Godfather (1972).jpg" alt=""></a></li>
             <li class="one_quarter"><a href="#"><img src="../images/demo/gallery/The Godfather Part II (1974).jpg" alt=""></a></li>
             <li class="one_quarter first"><a href="#"><img src="../images/demo/gallery/The Lord of the Rings The Fellowship of the Ring (2001).jpg" alt=""></a></li>
