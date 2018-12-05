@@ -16,7 +16,7 @@
       <div class="fl_right">
         <ul class="nospace">
           <!--<li><a href="index.php"><i class="fa fa-lg fa-home"></i></a></li>-->
-          <li><a href="pages/sign-in.php">Login / Sign In</a></li>
+          <li><a href="pages/sign-in.php">Sign-In</a></li>
           <li><a href="pages/register.php">Register</a></li>
         </ul>
       </div>

@@ -19,9 +19,9 @@
       <!-- ################################################################################################ -->
       <div class="fl_right">
         <ul class="nospace">
-          <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-          <li><a href="#">Login</a></li>
-          <li><a href="#">Register</a></li>
+          <li><a href="../index.php"><i class="fa fa-lg fa-home"></i></a></li>
+          <li><a href="sign-in.php">Sign-In</a></li>
+          <li><a href="register.php">Register</a></li>
         </ul>
       </div>
 
@@ -44,12 +44,12 @@
           <li><a href="#">Watched</a></li>
 		            <li><a class="drop" href="#">Movies</a>
             <ul>
-              <li><a href="pages/">Genre</a></li>
-              <li><a href="pages/">Year</a></li>
-              <li><a href="pages/">Top Searched</a></li>
-              <li><a href="pages/">Most Viewed</a></li>
-              <li><a href="pages/">Recent Movies</a></li>
-			  <li><a href="pages/toprated.php">Top Rated</a></li>
+              <li><a href="">Genre</a></li>
+              <li><a href="">Year</a></li>
+              <li><a href="">Top Searched</a></li>
+              <li><a href="">Most Viewed</a></li>
+              <li><a href="">Recent Movies</a></li>
+			  <li><a href="toprated.php">Top Rated</a></li>
             </ul>
           </li>
         </ul>
@@ -112,7 +112,6 @@
       <label for="validationDefault04">Country</label>
       <input type="text" class="form-control" id="validationDefault04" placeholder="Country" required>
     </div>
-    <br>
     <div class="col-md-3 mb-3">
       <label for="validationDefault05">Password</label>
       <input type="password" class="form-control" id="validationDefault05" placeholder="Password" required>
