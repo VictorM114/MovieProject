@@ -5,8 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 <body id="top">
 <!-- ################################################################################################ -->
@@ -100,13 +99,14 @@
                    Cast: Christian Bale, Heath Ledger, Aaron Eckhart.</article>
           </figure>
         <div class="btn-group btn-group-toggle" data-toggle="buttons">
-              <label class="btn btn-secondary">
-              <input type="radio" name="options" id="option1" autocomplete="off"> Watched
-              </label>
-              <label class="btn btn-secondary">
-              <input type="radio" name="options" id="option2" autocomplete="off"> To Watch
-              </label>
-        </div>
+        <label class="btn btn-secondary ">
+       <input type="radio" name="options" id="option1" autocomplete="off" checked> Watched
+       </label>
+      <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option2" autocomplete="off"> To Watch
+     </label>
+
+</div>
       </div>
     </div>
     <!-- ################################################################################################ -->
