@@ -105,9 +105,10 @@
               </label>
               <label class="btn btn-secondary">
               <input type="radio" name="options" id="option2" autocomplete="off"> To Watch
-              </label></div>
+              </label>
+        </div>
       </div>
-      </div>
+    </div>
     <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
