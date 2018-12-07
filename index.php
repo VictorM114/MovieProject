@@ -8,7 +8,7 @@
 </head>
 <body id="top">
 <!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/bluelines.jpg');"> 
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/blandblue.jpg');"> 
   <!-- ################################################################################################ -->
   <div class="wrapper row0">
     <div id="topbar" class="hoc clear"> 
@@ -81,7 +81,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper">
-  <div class="split clear" style="background-image:url('images/demo/backgrounds/bluelines.jpg');">
+  <div class="split clear" style="background-image:url('images/demo/backgrounds/blandblue');">
     <section class="box"> 
       <!-- ################################################################################################ -->
       <div class="btmspace-50">
