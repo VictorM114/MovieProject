@@ -39,7 +39,29 @@
       </div>
       <nav id="mainav" class="fl_right">
         <ul class="clear">
-		  <li><a href="">Profile</a></li>
+          <?php
+          $menu = [
+            'Home' => [
+                    'label' => 'Home',
+                    'source' => '/index.php'
+                    ],
+            'Profile' => [
+                      'label' => 'Profile',
+                      'source' => ''
+            ],
+          ];
+          foreach($menu as $page => $element){
+            echo '<li>
+              <a class= "" href= "?p=' . $page .  ">" . $element['label'] . '</a>
+              </li>';
+          }
+          ?>
+          
+          
+          
+      <!--<li><a href ="../index.php">Home</a></li>
+		  <li><a href="">Profile</a></li> -->
+      
 		            <li><a class="drop" href="#">Movies</a>
             <ul>
               <li><a href="">Genre</a></li>
@@ -51,7 +73,17 @@
             </ul>
           </li>
         </ul>
-      </nav> 
+      </nav>
+      <?php
+      $page = (isset($_GET['p'])) ? $_GET['p'] : 'Home';
+      if (isset($menu[$page])){
+              include $menu[$page]['source'];
+      
+      } 
+      
+      ?>
+      
+      
       <!-- ################################################################################################ -->
     </header>
   </div>
